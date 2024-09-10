@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">teamproject2024</string>
+    <string name="total_amount_text" />
+    <string name="goal_left_text" />
+    <string name="add_button_text" />
+    <string name="reset_button_text" />
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="water_amount" type="id" />
+    <item name="tv_total_water" type="id">water</item>
+    <item name="pb_water_goal" type="id">goal</item>
+    <item name="tv_remaining_water" type="id">remaining</item>
+    <item name="btn_add_water" type="id">addwater</item>
+</resources>
